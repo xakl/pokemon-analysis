@@ -11,8 +11,8 @@
 
 ## 注意事項
 - メガシンカするポケモンは対象外とする
-- CSVデータは、*/dataset/pokemon_status.csv*を使用すること
-- 本リポジトリをフォークして、jupyternotebook形式または、py形式でGitHubに*/source*ディレクトリ以下に格納すること
+- CSVデータは、　**/dataset/pokemon_status.csv** を使用すること
+- 本リポジトリをフォークして、jupyternotebook形式または、py形式でGitHubに **/source** ディレクトリ以下に格納すること
 - 棒グラフ表示には、matplotlibを使用すること
 - pandasは使用しないこと(基本的な構文を学ぶ課題のため)
 - PEP8に準拠しコーディングすること
